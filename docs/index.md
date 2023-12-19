@@ -1,5 +1,5 @@
 ---
-title: AMA Comunidades - comunidades de prática
+title: Comunidades AP - comunidades de prática na Administração Pública
 ---
 
 Comunidades de prática em:
