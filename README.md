@@ -1,4 +1,4 @@
-# AMA Comunidades
+# Comunidades AP
 
 Comunidades de prática em:
 
