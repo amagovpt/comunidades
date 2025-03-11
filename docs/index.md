@@ -9,7 +9,7 @@ title: Comunidades AP - comunidades de prática na Administração Pública
 - [Acessibilidade e Usabilidade Digital](https://github.com/amagovpt/a11y/discussions)
 - [Interoperabilidade](https://github.com/amagovpt/i14y/discussions)
 - [Dados Abertos](https://github.com/amagovpt/data/discussions)
-- Territórios Inteligentes (em breve)
+- [Territórios Inteligentes](https://github.com/amagovpt/territorios-inteligentes/discussions)
 
 ### Fóruns Privados:
 
